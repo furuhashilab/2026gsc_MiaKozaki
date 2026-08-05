@@ -151,4 +151,8 @@
 ---
 
 ## 参考文献
-
+近藤大・朝日弓未「日本プロ野球における観客動員の要因変動の検証」システム制御情報学会研究発表講演会論文集. https://www.jstage.jst.go.jp/article/jscssymo/35/0/35_3/_pdf/-char/en
+スポーツ庁「スタジアム・アリーナ等の経済的・社会的効果を高める取組事例」文部科学省. https://www.mext.go.jp/sports/content/1415586_02_2.pdf
+LocationMind株式会社「MAZDAスタジアムの野球の盛況！！（リアルタイム人流レポート第53回）」note, 2026年6月29日. https://note.com/locationmind/n/n7c41beb79e0c
+Google「Google マップ、混雑する時間帯や現在の混雑状況の舞台裏」Google 公式ブログ. https://blog.google/intl/ja-jp/products/explore-get-answers/maps-busy-times-jp/
+Google マップ ヘルプ「混雑エリアに関する情報を Google マップから入手する」. https://support.google.com/maps/answer/11323117?hl=ja
